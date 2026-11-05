@@ -31,7 +31,7 @@ section h2 {
 footer {
   padding: 24px;
   text-align: center;
-  background: #2579ee;
+  background: #f3f3f3;
   font-size: 0.9rem;
 }
 main {
@@ -40,11 +40,29 @@ main {
   padding: 40px 20px;
 }
 section {
-  background: #aa2222;
+  background: #eef1ee;
   border-radius: 12px;
   padding: 24px;
   margin-bottom: 24px;
   box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+}
+
+button{
+    border:none
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
 }
 section h2 {
   margin-top: 0;
