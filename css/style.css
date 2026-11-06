@@ -8,7 +8,7 @@ body {
   color: #253238;
 }
 header {
-  background: linear-gradient(120deg, #04AA6D, #058457);
+  background: linear-gradient(120deg, #207ccd, #180584);
   color: #fff;
   padding: 60px 20px;
   text-align: center;
@@ -26,7 +26,7 @@ section {
 }
 section h2 {
   margin-top: 0;
-  color: #04AA6D;
+  color: #207ccd;
 }
 footer {
   padding: 24px;
@@ -53,7 +53,7 @@ button{
 a:link, a:visited {
   background-color: white;
   color: black;
-  border: 2px solid green;
+  border: 2px solid #207ccd;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -61,12 +61,12 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: green;
+  background-color: #207ccd;
   color: white;
 }
 section h2 {
   margin-top: 0;
-  color: #04AA6D;
+  color: #207ccd;
 }
 footer {
   padding: 24px;
